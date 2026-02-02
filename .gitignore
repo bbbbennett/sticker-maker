@@ -1,0 +1,11 @@
+# Executables
+*.exe
+
+# Build artifacts
+build/
+dist/
+__pycache__/
+*.pyc
+
+# PyInstaller
+*.manifest
