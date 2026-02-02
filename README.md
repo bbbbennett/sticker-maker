@@ -1,4 +1,4 @@
-# Sticker Maker
+# Telegram Sticker Maker
 
 A simple GUI tool to create Telegram stickers from images. Removes backgrounds using the remove.bg API and resizes images to Telegram's 512px sticker format.
 
